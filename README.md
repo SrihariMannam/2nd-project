@@ -1,2 +1,5 @@
 # 2nd-project
-nnew project made with node.js
+
+new project made with node.js
+
+it is my 2nd practice project
